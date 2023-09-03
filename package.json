@@ -2,7 +2,7 @@
   "name": "YourPet_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://https://github.com/Olga-Dames/YourPet_app",
+  "homepage": "https://github.com/Olga-Dames/YourPet_app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
