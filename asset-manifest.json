@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Olga-Dames/YourPet_app/static/css/main.7acaea2f.css",
-    "main.js": "/Olga-Dames/YourPet_app/static/js/main.07d3183d.js",
-    "index.html": "/Olga-Dames/YourPet_app/index.html",
-    "main.7acaea2f.css.map": "/Olga-Dames/YourPet_app/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Olga-Dames/YourPet_app/static/js/main.07d3183d.js.map"
+    "main.css": "/YourPet_app/static/css/main.7acaea2f.css",
+    "main.js": "/YourPet_app/static/js/main.07d3183d.js",
+    "index.html": "/YourPet_app/index.html",
+    "main.7acaea2f.css.map": "/YourPet_app/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/YourPet_app/static/js/main.07d3183d.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
